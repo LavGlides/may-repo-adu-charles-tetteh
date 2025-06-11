@@ -1,1 +1,1 @@
-This is our first try. adding new text after opening vim ben.txt
+I am learning cloud. My instructor is Penty
